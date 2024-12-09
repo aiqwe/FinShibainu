@@ -1,0 +1,7 @@
+{% extends "system_mcqa_default.jinja2" %}
+{%  block system_prompt_instruction -%}
+- {{ role }}
+- {{ task_type }}
+- {{ level }}
+- 사용자가 제공하는 예시와 의미적으로 중복되지 않는 더 높은 난이도의 새로운 질문과 답변셋을 만들어주세요.
+{%-  endblock system_prompt_instruction %}

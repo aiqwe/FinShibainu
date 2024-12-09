@@ -1,0 +1,6 @@
+{% extends "system_mcqa_default.jinja2" %}
+{%  block system_prompt_instruction -%}
+- {{ role }}
+- {{ task_type }}
+- {{ level }}
+{%-  endblock system_prompt_instruction %}

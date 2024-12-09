@@ -1,0 +1,25 @@
+{%- if contents -%}
+### 설명:
+{% endif -%}
+{%- if title -%}
+{{ title }}
+{% endif -%}
+{%- if contents -%}
+{{ contents }}
+{% endif -%}
+{%- if question -%}
+### question: {{ question }}
+{% endif -%}
+{% if options -%}
+### options:
+{{ options }}
+{% endif -%}
+{% if reasoning_process -%}
+### reasoning_process: {{ reasoning_process }}
+{% endif -%}
+{% if old_answer -%}
+### old_answer: {{ old_answer }}
+{% endif -%}
+{% if answer -%}
+### answer: {{ answer -}}
+{% endif -%}
