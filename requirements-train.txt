@@ -1,0 +1,5 @@
+torch
+peft
+transformers
+trl
+vllm
