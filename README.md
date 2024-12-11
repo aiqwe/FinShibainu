@@ -29,7 +29,6 @@ pip install -r requirements-train.txt
 + OpenAI: [OpenAI Platform](https://platform.openai.com/)
 
 # Citation
-본 코드를 인용하거나 사용할 경우 출처를 남겨주세요.
 ```bibtex
 @misc{jaylee2024krxllmcompetition,
   author = {jay lee},
