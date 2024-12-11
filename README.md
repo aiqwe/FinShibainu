@@ -28,3 +28,15 @@ pip install -r requirements-train.txt
 + 공공데이터: [공공데이터 포털](https://www.data.go.kr/)
 + OpenAI: [OpenAI Platform](https://platform.openai.com/)
 
+# Citation
+본 코드를 인용하거나 사용할 경우 출처를 남겨주세요.
+```bibtex
+@misc{jaylee2024krxllmcompetition,
+  author = {jay lee},
+  title = {shibainu24: krx llm completition llm model},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/aiqwe/krx-llm-competition}
+}
+```
