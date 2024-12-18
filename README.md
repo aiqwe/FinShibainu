@@ -1,4 +1,4 @@
-# KRX LLM Competition - shibainu24 Model(FinShibainu) / Datset Repository
+# KRX LLM Competition - shibainu24 Model(FinShibainu) / Dataset Repository
 KRX 금융 언어 모델 경진대회에서 우수상을 입상한 `shibainu24` 모델의 학습 코드 및 데이터 생성 레포지토리입니다.  
 한국의 금융 언어 모델 도메인에 특화시키기 위해 한국의 금융, 회계 제도와 법률을 기반으로 학습되었습니다.
 
