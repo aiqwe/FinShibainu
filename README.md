@@ -1,8 +1,8 @@
-# KRX LLM Competition - shibainu24 Model / Datset Repository
+# KRX LLM Competition - shibainu24 Model(FinShibainu) / Datset Repository
 + Dataset 생성 소스코드 : [krx_llm_dataset](./krx_llm_dataset)
 + Training 소스코드 : [krx_llm_train](./krx_llm_train)
-+ Model(Huggingface) : [https://huggingface.co/aiqwe/krx-llm-competition](https://huggingface.co/aiqwe/krx-llm-competition)
-+ Dataset(Huggingface) : [https://huggingface.co/datasets/aiqwe/krx-llm-competition](https://huggingface.co/datasets/aiqwe/krx-llm-competition)
++ Model(Huggingface) : [https://huggingface.co/aiqwe/krx-llm-competition](https://huggingface.co/aiqwe/FinShibainu)
++ Dataset(Huggingface) : [https://huggingface.co/datasets/aiqwe/krx-llm-competition](https://huggingface.co/datasets/aiqwe/FinShibainu)
 
 # 라이브러리
 사용 전에 다음과 같이 라이브러리를 설치해주세요.
