@@ -33,12 +33,12 @@ pip install -r requirements-train.txt
 
 # Citation
 ```bibtex
-@misc{jaylee2024krxllmcompetition,
-  author = {jay lee},
-  title = {shibainu24: krx llm completition llm model},
+@misc{jaylee2024finshibainu,
+  author = {Jay Lee},
+  title = {FinShibainu: Korean specified finance model},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {https://github.com/aiqwe/krx-llm-competition}
+  url = {https://github.com/aiqwe/FinShibainu}
 }
 ```
